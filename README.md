@@ -3,3 +3,9 @@
 Comapny network design is a project connecting the company servers and clients of 3 countries i.e. UK, USA and India.
 
 For our implementation we have used a Wide Area Network and integrated it with the following Computer Network Protocols:
+- FTP (File Transfer Protocol)
+- TFTP (Trivial File Transfer Protocol)
+- DNS (Domain Name Server)
+- HTTPS (Hyper Text Transfer Protocol)
+- NTP (Network Time Protocol)
+- Syslog (System Logging Protocol)
