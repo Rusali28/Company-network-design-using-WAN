@@ -9,3 +9,10 @@ For our implementation we have used a Wide Area Network and integrated it with t
 - HTTPS (Hyper Text Transfer Protocol)
 - NTP (Network Time Protocol)
 - Syslog (System Logging Protocol)
+
+## Software Used
+
+Cisco Packet Tracer - Version 8.0.0
+
+## Platform Used
+Windows 10..
